@@ -1,0 +1,6 @@
+[
+    { "id" : 1,  "name" : "Open Grains Ring", "image" : "../assets/ring1.png", "category": "ring" , "price": 250.00},
+    { "id" : 2,  "name" : "Diamond Ring", "image" :  "../assets/diamond.png", "category": "engagement" ,"price": 3500.00 },
+    { "id" : 3,  "name" : "Gold Molten Necklace", "image" :  "'../assets/goldNecklace.png", "category": "necklace", "price": 550.00  },
+    { "id" : 4,  "name" : "Patterned Bracelet", "image" :  "'../assets/gold.png", "category": "bracelet", "price": 490.00 }
+ ]

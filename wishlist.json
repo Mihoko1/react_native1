@@ -1,0 +1,5 @@
+[
+    { "id" : 1,  "name" : "Forever", "image" : "https://images.unsplash.com/photo-1518953789413-9598f0909795?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" , "category": "ring" , "price": 5000.00},
+    { "id" : 2,  "name" : "Blue sea", "image" :  "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80", "category": "earings", "price": 550.00  },
+    { "id" : 3,  "name" : "Gold Stadded rings", "image" :  "https://images.unsplash.com/photo-1543294001-f7cd5d7fb516?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60", "category": "ring", "price": 800.00 }
+ ]
